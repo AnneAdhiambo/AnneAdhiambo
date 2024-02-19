@@ -24,9 +24,7 @@
  [![GitHub Streak](https://streak-stats.demolab.com/?user=AnneAdhiambo&theme=nightowl)](https://git.io/streak-stats)
   
   
-  ## 💰 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/toor) 
-
+  
   
   <div class="footer" align="center" style="margin:15px;">
     <a href="mailto:adhiamboanne699@gmail.com" target="_blank">
