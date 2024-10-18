@@ -3,7 +3,7 @@
 
 <div align="center">
    <a href="https://flutter.dev/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/fluttreio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
     </a>
 </div>
 
